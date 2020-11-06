@@ -1,0 +1,37 @@
+{
+  "name": "smarthr-normalize-css",
+  "version": "1.0.0",
+  "description": "A sharable normalize CSS for SmartHR",
+  "main": "lib/index.js",
+  "module": "esm/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:kufu/smarthr-normalize-css"
+  },
+  "homepage": "https://github.com/kufu/smarthr-normalize-css#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "bugs": {
+    "url": "https://github.com/kufu/smarthr-normalize-css/issues"
+  },
+  "keywords": [
+    "normalize.css",
+    "css",
+    "styled-components"
+  ],
+  "scripts": {
+    "build": "run-p build:*",
+    "build:lib": "tsc -p tsconfig.build.json",
+    "build:esm": "tsc -p tsconfig.esm.build.json"
+  },
+  "author": "SmartHR",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/styled-components": "^5.1.4",
+    "npm-run-all": "^4.1.5",
+    "styled-components": "^5.2.1",
+    "styled-reset": "^4.3.0",
+    "typescript": "^4.0.5"
+  }
+}
