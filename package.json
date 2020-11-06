@@ -5,6 +5,7 @@
   "description": "A sharable normalize CSS for SmartHR",
   "main": "lib/index.js",
   "module": "esm/index.js",
+  "types": "lib/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+git@github.com:kufu/smarthr-normalize-css"
