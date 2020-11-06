@@ -1,4 +1,4 @@
-import { css, createGlobalStyle } from 'styled-components'
+import { createGlobalStyle, css } from 'styled-components'
 import reset from 'styled-reset'
 
 export const cssBaseLine = css`
@@ -18,7 +18,9 @@ export const cssBaseLine = css`
   img {
     vertical-align: middle;
   }
-  input, button, textarea {
+  input,
+  button,
+  textarea {
     margin: 0;
     padding: 0;
     outline: none;
