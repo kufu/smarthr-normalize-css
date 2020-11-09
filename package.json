@@ -1,6 +1,6 @@
 {
   "name": "smarthr-normalize-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A sharable normalize CSS for SmartHR",
   "main": "lib/index.js",
   "module": "esm/index.js",
@@ -46,5 +46,4 @@
     "styled-reset": "^4.3.0"
   },
   "prettier": "prettier-config-smarthr"
-  
 }
