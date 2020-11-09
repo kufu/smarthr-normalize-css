@@ -25,7 +25,9 @@
     "build": "run-p build:*",
     "build:lib": "tsc -p tsconfig.build.json",
     "build:esm": "tsc -p tsconfig.esm.build.json",
-    "lint:eslint": "eslint 'src/**/*.ts{,x}'"
+    "lint:eslint": "eslint 'src/**/*.ts{,x}'",
+    "release:dryrun": "standard-version --dry-run",
+    "release": "standard-version"
   },
   "author": "SmartHR",
   "license": "MIT",
@@ -36,6 +38,7 @@
     "npm-run-all": "^4.1.5",
     "prettier": "^2.1.2",
     "prettier-config-smarthr": "^1.0.0",
+    "standard-version": "^9.0.0",
     "styled-components": "^5.2.1",
     "styled-reset": "^4.3.0",
     "typescript": "^4.0.5"
