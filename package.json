@@ -43,7 +43,7 @@
     "typescript": "^4.1.3"
   },
   "dependencies": {
-    "styled-reset": "^4.3.3"
+    "styled-reset": "^4.3.4"
   },
   "prettier": "prettier-config-smarthr"
 }
