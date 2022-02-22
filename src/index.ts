@@ -4,9 +4,6 @@ import reset from 'styled-reset'
 export const cssBaseLine = css`
   ${reset}
 
-  html {
-    font-size: 62.5%;
-  }
   body {
     word-wrap: break-word;
     font-family: system-ui, sans-serif;
