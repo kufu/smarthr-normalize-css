@@ -5,7 +5,7 @@ export const cssBaseLine = css`
   ${reset}
 
   body {
-    word-wrap: break-word;
+    overflow-wrap: break-word;
     font-family: system-ui, sans-serif;
   }
   a {
