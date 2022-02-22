@@ -8,9 +8,9 @@ export const cssBaseLine = css`
     overflow-wrap: break-word;
     font-family: system-ui, sans-serif;
   }
+
   a {
     color: inherit;
-    text-decoration: none;
   }
   img {
     vertical-align: middle;
