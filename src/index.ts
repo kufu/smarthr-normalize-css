@@ -12,15 +12,16 @@ export const cssBaseLine = css`
   a {
     color: inherit;
   }
+
   img {
     vertical-align: middle;
   }
+
   input,
   button,
   textarea {
     margin: 0;
     padding: 0;
-    outline: none;
     border: none;
     background-color: inherit;
     color: inherit;
