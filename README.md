@@ -34,7 +34,7 @@ global style.
 ```jsx
 import * as React from 'react'
 import { createGlobalStyle } from 'styled-components'
-import cssBaseLine from 'styled-reset'
+import cssBaseLine from 'smarthr-normalize-css'
 
 const GlobalStyle = createGlobalStyle`
   ${cssBaseLine}
