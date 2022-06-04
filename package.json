@@ -26,7 +26,7 @@
     "build:lib": "tsc -p tsconfig.build.json",
     "build:esm": "tsc -p tsconfig.esm.build.json",
     "lint": "eslint 'src/**/*.ts{,x}'",
-    "clean": "rimraf ./lib",
+    "clean": "rimraf ./lib ./esm",
     "prepublishOnly": "run-s clean lint build",
     "release:dryrun": "standard-version --dry-run",
     "release": "standard-version"
