@@ -9,6 +9,10 @@
     "type": "git",
     "url": "git+git@github.com:kufu/smarthr-normalize-css"
   },
+  "files": [
+    "esm",
+    "lib"
+  ],
   "homepage": "https://github.com/kufu/smarthr-normalize-css#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
