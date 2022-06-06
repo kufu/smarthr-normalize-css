@@ -26,6 +26,14 @@ export const cssBaseLine = css`
     background-color: inherit;
     color: inherit;
   }
+
+  button,
+  input,
+  select,
+  textarea {
+    font-family: inherit;
+    font-size: 100%;
+  }
 `
 
 export const CssBaseLine = createGlobalStyle`${cssBaseLine}`
