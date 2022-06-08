@@ -1,6 +1,8 @@
 import { createGlobalStyle, css } from 'styled-components'
 import reset from 'styled-reset'
 
+console.log('test')
+
 export const cssBaseLine = css`
   ${reset}
 
