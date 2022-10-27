@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/kufu/smarthr-normalize-css/compare/v1.0.4...v1.1.0) (2022-10-27)
+
+
+### Features
+
+* 入力系の要素でもフォントファミリー、サイズを継承 ([#57](https://github.com/kufu/smarthr-normalize-css/issues/57)) ([976ed95](https://github.com/kufu/smarthr-normalize-css/commit/976ed95dd3b837295cf1ccad8d1d89fa941d072b))
+
 ### [1.0.4](https://github.com/kufu/smarthr-normalize-css/compare/v1.0.3...v1.0.4) (2022-03-18)
 
 ### [1.0.3](https://github.com/kufu/smarthr-normalize-css/compare/v1.0.2...v1.0.3) (2022-03-18)

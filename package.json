@@ -1,6 +1,6 @@
 {
   "name": "smarthr-normalize-css",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "A sharable normalize CSS for SmartHR",
   "main": "lib/index.js",
   "module": "esm/index.js",
