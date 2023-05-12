@@ -50,7 +50,7 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "styled-reset": "^4.4.6"
+    "styled-reset": "^4.4.7"
   },
   "prettier": "prettier-config-smarthr"
 }
