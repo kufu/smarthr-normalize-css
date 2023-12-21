@@ -7,6 +7,7 @@ export const cssBaseLine = css`
   body {
     overflow-wrap: break-word;
     font-family: system-ui, sans-serif;
+    line-height: 1.5;
   }
 
   a {
