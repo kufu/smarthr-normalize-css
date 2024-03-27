@@ -39,8 +39,8 @@
   "license": "MIT",
   "devDependencies": {
     "@types/styled-components": "^5.1.27",
-    "eslint": "^8.56.0",
-    "eslint-config-smarthr": "^6.15.7",
+    "eslint": "^8.57.0",
+    "eslint-config-smarthr": "^6.24.0",
     "npm-run-all": "^4.1.5",
     "prettier": "^3.2.4",
     "prettier-config-smarthr": "^1.0.0",
