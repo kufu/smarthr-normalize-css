@@ -2,6 +2,12 @@
 
 A sharable normalize CSS for SmartHR. This is intended to use at a project for styled-components.
 
+## ⚠️ Deprecated
+
+This repository has been archived and will no longer be maintained.
+
+---
+
 ## Installation
 
 smarthr-normalize-css is available as an  [npm package](https://www.npmjs.com/package/smarthr-normalize-css).
